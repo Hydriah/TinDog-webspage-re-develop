@@ -141,7 +141,8 @@ position:relative;
 #cta {
  background-color: #ff4c68; 
  color: #fff;
- padding: 7% 15%;  
+ padding: 7% 15%;
+ width: 30%;  
  text-align: center;
 }
 
@@ -165,7 +166,7 @@ position:relative;
 }
 /* @media */
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
 
     .title{
         text-align: center;
